@@ -29,7 +29,7 @@
 <sub>
 
 [Naveandice/Naveandice](https://github.com/Naveandice/Naveandice),
-[docs/about.md](https://github.com/Naveandice/Naveandice/blob/main/docs/about.me)
+[docs/about.md](https://github.com/Naveandice/Naveandice/blob/main/docs/about.md)
 
 </sub>
 
