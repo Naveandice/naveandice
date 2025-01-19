@@ -5,7 +5,6 @@ oh hi
 I'm just a random person on the Internet. *Or am I?*
 
 [![][badge-aboutme]](/docs/about.md)
-[![][badge-youtube]](https://www.youtube.com/@naveandiceislost)
 
 | Preferences & Skills    |
 |-------------------------|
@@ -32,7 +31,6 @@ I'm just a random person on the Internet. *Or am I?*
 
 <!-- badges -->
 [badge-aboutme]:    https://img.shields.io/badge/About_Me-010409?style=for-the-badge&logo=github&logoSize=auto
-[badge-youtube]:    https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoSize=auto
 
 <!-- icons -->
 [icons-editors]:        https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio
